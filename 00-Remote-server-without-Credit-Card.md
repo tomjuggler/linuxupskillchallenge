@@ -13,7 +13,9 @@ WARNING: If you go searching too deeply for options in this area, you're very li
 So, if you are in this situation, below are some of your options:
 
 ## Free Trail
-* https://www.ibm.com/cloud/free - no credit card or student email required, 30 days trail. (VPS service known as Hyper Protect Virtual Server)
+* https://www.ibm.com/cloud/free - no credit card or student email required, 30 days trail. (VPS service known as Hyper Protect Virtual Server) - trying this one
+
+
 
 ## Educational packs
 * https://azure.microsoft.com/en-gb/free/students/ - explicity no credit card required, just needs an "educational email address")
